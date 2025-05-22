@@ -1,9 +1,3 @@
-# GreatCart
-Django E-commerce Website
-
-Here is a README.md file for your GreatKart e-commerce project:
-
-⸻
 
 
 # 🛒 GreatKart – E-commerce Web Application
