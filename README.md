@@ -39,8 +39,8 @@
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/greatkart.git
-cd greatkart
+git clone https://github.com/HadeelAbdulrahman/GreatCart.git
+
 
 # Set up virtual environment
 python -m venv env
@@ -84,12 +84,6 @@ greatkart/
 
 ⸻
 
-📸 Screenshots
-
-(Add relevant UI screenshots here)
-
-⸻
-
 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -100,4 +94,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Let me know if you want it personalized (e.g., GitHub URL, real admin/user credentials, etc.).
